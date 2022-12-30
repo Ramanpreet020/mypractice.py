@@ -10,7 +10,11 @@ print(text)
 # :>
 # :F
 # :f
-
+payment
+{
+    send money
+    receive money
+}
 #.:f fix point number format 
 text = "The price of this product is {:.f} rupees"
 text = "The price of this product is {:.4f} rupees"
